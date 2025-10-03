@@ -259,5 +259,3 @@ Start playing now: `python rock_paper_scissors.py`
 ---
 *Created by [@fatripod](https://github.com/fatripod)*
 ```
-✅ Computer personality examples ✅ Menu interactions ✅ Complete game session walkthrough
-Users can see exactly what your game looks like and how it works just by reading the README! No separate screenshot files needed - everything is embedded right in the documentation. 🚀
