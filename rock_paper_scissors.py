@@ -9,7 +9,7 @@ A feature-rich rock-paper-scissors game that includes:
 - Persistent all-time statistics tracking
 - Automatic save/load functionality
 
-Author: Nathan McCrary
+Author: Fatripod
 Version: 2.1
 """
 
